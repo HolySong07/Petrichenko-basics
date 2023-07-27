@@ -24,7 +24,7 @@
 Проверить, чтобы все работало без ошибок в консоли */
 
 
- let numberOfFilms = +prompt("Сколько фильмов вы уже посмотрели?");
+let numberOfFilms = +prompt("Сколько фильмов вы уже посмотрели?");
 
 let personalMovieDB = {
 	count: numberOfFilms,
